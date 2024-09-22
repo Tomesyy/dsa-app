@@ -11,6 +11,8 @@ module.exports = {
       "Dotun",
       "Aphomer",
       "Chidera",
+      "Sesan",
+      "Uchechukwu"
     ],
     SET_2: [
       "Tife",
@@ -22,9 +24,11 @@ module.exports = {
       "Sunkanmi",
       "Yemi",
       "John Igwe",
-      "Ifihan"
+      "Ifihan",
+      "CK",
+      "Swizz"
     ],
   },
-  REFERENCE_DATE_STRING: "September, 2024",
+  REFERENCE_DATE_STRING: "August, 2024",
   SEED: "oqiefi1293919qnwkasdasd0s",
 };
