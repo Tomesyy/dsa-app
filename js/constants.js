@@ -29,6 +29,6 @@ module.exports = {
       "Swizz"
     ],
   },
-  REFERENCE_DATE_STRING: "August, 2024",
+  REFERENCE_DATE_STRING: "2024-08-01T00:00:00Z",
   SEED: "oqiefi1293919qnwkasdasd0s",
 };
